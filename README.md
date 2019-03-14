@@ -2,4 +2,4 @@ Kubernetes Basics
 
 
 
-[Contribution guidelines for this project](docs/Requirements.md)
+[Contribution guidelines for this project](Requirements.md)
